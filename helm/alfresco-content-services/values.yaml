@@ -66,6 +66,7 @@ repository:
   extraVolumeMounts: []
   extraVolumes: []
 
+
 # Declares the api-explorer service used by the content repository
 apiexplorer:
   ingress:
